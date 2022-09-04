@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 I am a fulll time app developer and game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m currently working as a Software Engineer, contributing and leading to all the apps and games developed by Teton Private Ltd.
 
-- :seedling: I'm also contributing various app and game development projects as a freelancer. 
+- :seedling: I'm also contributing to various apps and games as a freelancer. 
 
 - :zap: In my free time, I try to utilize as much time as I can to make myself better, both as a software engineer and as a human being.
 
