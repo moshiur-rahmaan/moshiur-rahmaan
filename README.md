@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :man_technologist: About Me :
-I am both an app developer and a game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a fulll time app developer and game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m currently working as a Software Engineer, contributing and leading to all the apps and games developed by Teton Private Ltd.
 
 - :seedling: I'm also contributing various app and game development projects as a freelancer. 
